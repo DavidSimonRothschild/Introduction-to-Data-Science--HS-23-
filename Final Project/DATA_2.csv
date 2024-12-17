@@ -1,0 +1,410 @@
+"ABSTIMMUNGSTAG","VORLAGE_KURZBEZ","STAT_VORLAGE_ID","ABSTIMMUNGSART_BEZ","ANNEHMENDE_GEBIETE","ABLEHNENDE_GEBIETE","JA_ANTEIL_PROZENT","Policy_Feld","Policy_Feld_Code"
+2000-03-12,"Ausgabenbremse: Kantonsverfassung: Aenderungvon Art. 31 und 31a",1987,"kantonal",171,0,76.93,"Finanzen",11
+2000-03-12,"Steuergesetz: Aenderung",1988,"kantonal",171,0,79.09,"Finanzen",11
+2000-03-12,"Gesetz über die Pädagogische Hochschule",1989,"kantonal",90,81,55.17,"Bildung",9
+2000-03-12,"Volksinitiative «für die Halbierung des Strassenverkehrs zur Erhaltung von Lebensräumen»",168,"eidgenössisch",0,160,26.66,"Umwelt+Verkehr",1
+2000-03-12,"Volksinitiative «zum Schutze des Menschen vor Manipulationen in der Fortpflanzungstechnologie»",167,"eidgenössisch",0,160,30.37,"Kirche+Staat",6
+2000-03-12,"Volksinitiative «für eine gerechte Vertretung der Frauen in den Bundesbehörden (Initiative 3. März)»",166,"eidgenössisch",0,160,19.55,"Demokratie",5
+2000-03-12,"Bundesbeschluss über die Justizreform",164,"eidgenössisch",160,0,89.8,"Law+Order",12
+2000-03-12,"Volksinitiative für Beschleunigung der direkten Demokratie (Behandlungsfristen für Volksinitiativen)",165,"eidgenössisch",1,159,32.53,"Demokratie",5
+2000-05-21,"Bundesbeschluss zum sektoriellen Abkommen zwischen Eidgenossenschaft und EG",169,"eidgenössisch",144,16,69.94,"Wirtschaft",4
+2000-09-24,"Flexiblere Regelung für den Bau von Radwegen im Strassengesetz",1991,"kantonal",91,80,49.82,"Umwelt+Verkehr",1
+2000-09-24,"Zeitgemässe Liberalisierung der Vorschriften über die öffentlichen Ruhetage und die Öffnungszeiten",1990,"kantonal",138,33,55.95,"Wirtschaft",4
+2000-09-24,"Verfassungsartikel über eine Energielenkungsabgabe für die Umwelt",173,"eidgenössisch",33,127,51.71,"Umwelt+Verkehr",1
+2000-09-24,"Volksinitiative «Mehr Rechte für das Volk dank dem Referendum mit Gegenvorschlag»",175,"eidgenössisch",0,160,34.4,"Demokratie",5
+2000-09-24,"Volksinitiative «für eine Regelung der Zuwanderung»",174,"eidgenössisch",6,154,35.06,"Migrarion",7
+2000-09-24,"Anpassung des Gesetzes über die Zusatzleistungen zur AHV/IV",1992,"kantonal",38,133,44.14,"Soziales",3
+2000-09-24,"Solarinitiative und Gegenvorschlag: Stichfrage (""Ja"" = Initiative)",172,"eidgenössisch",51,109,34.34,"Umwelt+Verkehr",1
+2000-09-24,"Volksinitiative «für einen Solarrappen»",170,"eidgenössisch",1,159,38.26,"Umwelt+Verkehr",1
+2000-09-24,"Verfassungsartikel über eine Förderabgabe für erneuerbare Energien",171,"eidgenössisch",27,133,51.64,"Umwelt+Verkehr",1
+2000-11-26,"Volksinitiative «für ein flexibles Rentenalter ab 62 für Frau und Mann»",177,"eidgenössisch",0,160,40.3,"Soziales",3
+2000-11-26,"Volksinitiative «für eine Flexibilisierung der AHV – gegen die Erhöhung des Rentenalters für Frauen»",176,"eidgenössisch",0,160,34.6,"Soziales",3
+2000-11-26,"Volksinitiative «für tiefere Spitalkosten»",179,"eidgenössisch",0,160,16.26,"Gesundheit",2
+2000-11-26,"Volksinitiative «Sparen beim Militär und der Gesamtverteidigung»",178,"eidgenössisch",0,160,37.07,"Sicherheit+Armee",10
+2000-11-26,"Bundespersonalgesetz",180,"eidgenössisch",160,0,73.98,"Soziales",3
+2001-03-04,"Volksinitiative «für tiefere Arzneimittelpreise»",182,"eidgenössisch",0,160,36.39,"Gesundheit",2
+2001-03-04,"Volksinitiative «für mehr Verkehrssicherheit durch Tempo 30 innerorts mit Ausnahmen»",183,"eidgenössisch",0,160,24.9,"Umwelt+Verkehr",1
+2001-03-04,"Volksinitiative «Ja zu Europa!»",181,"eidgenössisch",0,160,23.64,"Andere",8
+2001-06-10,"Bundesgesetz über die Armee und die Militärverwaltung (Ausbildungszusammenarbeit)",185,"eidgenössisch",81,79,53.82,"Sicherheit+Armee",10
+2001-06-10,"Gesetz über die Neuordnung der Elektrizitätsversorgung",1993,"kantonal",93,78,48.58,"Wirtschaft",4
+2001-06-10,"Bundesbeschluss über die Aufhebung der Genehmigungspflicht für die Errichtung von Bistümern",186,"eidgenössisch",156,4,64.41,"Kirche+Staat",6
+2001-06-10,"Bundesgesetz über die Armee und die Militärverwaltung (Bewaffnung)",184,"eidgenössisch",80,80,53.46,"Sicherheit+Armee",10
+2001-09-23,"Kredit für Ausbau von SBB-Anlagen",260,"kantonal",171,0,81.86,"Umwelt+Verkehr",1
+2001-09-23,"Volksinitiative: ""Tragbare Krankenkassenprämien""",259,"kantonal",47,124,51.28,"Gesundheit",2
+2001-09-23,"Änderung Gesundheitsgesetz",258,"kantonal",25,146,45.96,"Gesundheit",2
+2001-12-02,"Volksinitiative «Solidarität schafft Sicherheit: Für einen freiwilligen zivilen Friedensdienst»",190,"eidgenössisch",0,160,24.84,"Sicherheit+Armee",10
+2001-12-02,"Volksinitiative «für eine glaubwürdige Sicherheitspolitik und eine Schweiz ohne Armee»",189,"eidgenössisch",0,160,22.73,"Sicherheit+Armee",10
+2001-12-02,"Volksinitiative «für eine gesicherte AHV – Energie statt Arbeit besteuern!»",188,"eidgenössisch",0,160,27.01,"Soziales",3
+2001-12-02,"Bundesbeschluss über eine Schuldenbremse",187,"eidgenössisch",160,0,85.29,"Finanzen",11
+2001-12-02,"Volksinitiative «für eine Kapitalgewinnsteuer»",191,"eidgenössisch",0,160,33.81,"Wirtschaft",4
+2001-12-02,"Volksinitiative: ""Einheitliche Polizei für den Kanton Zürich""",257,"kantonal",1,170,35.22,"Law+Order",12
+2002-01-13,"Kredit an eine neue schweizerische Luftfahrtgesellschaft",2000,"kantonal",121,50,55.5,"Finanzen",11
+2002-01-13,"Bewlligung für betriebsnotwendige Systeme am Flughafen Zürich",2001,"kantonal",166,5,67.63,"Umwelt+Verkehr",1
+2002-03-03,"Volksinitiative «für den Beitritt der Schweiz zur Organisation der Vereinten Nationen (UNO)»",192,"eidgenössisch",106,54,59.78,"Andere",8
+2002-03-03,"Volksinitiative «für eine kürzere Arbeitszeit»",193,"eidgenössisch",0,160,25.62,"Soziales",3
+2002-06-02,"Volksinitiative für Mutter und Kind",2102,"eidgenössisch",0,171,14.61,"Soziales",3
+2002-06-02,"Schweizerisches Strafgesetzbuch (Schwangerschaftsabbruch: Fristenregelung)",2101,"eidgenössisch",171,0,77.49,"Kirche+Staat",6
+2002-09-22,"Elektrizitätsmarktgesetz",2105,"eidgenössisch",83,88,49.97,"Wirtschaft",4
+2002-09-22,"Volksinitiative «Überschüssige Goldreserven in den AHV-Fonds»",2103,"eidgenössisch",72,99,46.47,"Soziales",3
+2002-09-22,"Gold für AHV: Kantone und Stiftung (Gegenvorschlag zur Goldinitiative)",2104,"eidgenössisch",25,146,50.64,"Soziales",3
+2002-09-22,"Gold für AHV: Kantone und Stiftung (Stichfrage)",2115,"eidgenössisch",0,0,46.77,"Soziales",3
+2002-09-22,"Volksinitiative «Für eine geringere Besteuerung von Seniorinnen und Senioren»",2111,"kantonal",72,99,50.61,"Finanzen",11
+2002-09-22,"Gesetz über die Registrierung gleichgeschlechtlicher Paare",2110,"kantonal",153,18,62.7,"Kirche+Staat",6
+2002-11-24,"«Kantonsverfassung» (Schulpflege)",1,"kantonal",47,124,52.63,"Bildung",9
+2002-11-24,"«Volksschulgesetz»",2,"kantonal",32,139,47.75,"Bildung",9
+2002-11-24,"«Bildungsgesetz»",3,"kantonal",116,55,58.72,"Bildung",9
+2002-11-24,"Volksinitiative «gegen Asylrechtsmissbrauch»",2106,"eidgenössisch",129,42,50.56,"Migrarion",7
+2002-11-24,"«Kredit Fernwärmeerschliessung»",5,"kantonal",168,3,71.44,"Umwelt+Verkehr",1
+2002-11-24,"«Staatsbeiträge an Integrationskurse»",4,"kantonal",44,127,50.08,"Migrarion",7
+2002-11-24,"Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung",2107,"eidgenössisch",164,7,58.53,"Soziales",3
+2003-02-09,"Einführungsgesetz zum Schweizerischen Zivilgesetzbuch",6,"kantonal",158,13,56.54,"Andere",8
+2003-02-09,"Bewilligung über einen Staatsbeitrag für den Bau der Glattalbahn sowie für Strassenbauten im Glattal",7,"kantonal",161,10,66.62,"Umwelt+Verkehr",1
+2003-02-09,"Bundesbeschluss über die Aenderung der Volksrechte",194,"eidgenössisch",166,5,66.85,"Demokratie",5
+2003-02-09,"Bundesgesetz über die Anpassung der kantonalen Beiträge an Spitalbehandlungen",195,"eidgenössisch",170,1,79.01,"Gesundheit",2
+2003-05-18,"Volksinitiative ""für ein ausreichendes Berufsbildungsangebot (Lehrstelleninitiative)""",204,"eidgenössisch",3,168,34.82,"Bildung",9
+2003-05-18,"Volksinitiative ""MoratoriumPlus – Für die Verlängerung des Atomkraftwerk-Baustopps",203,"eidgenössisch",16,155,44.7,"Umwelt+Verkehr",1
+2003-05-18,"Volksinitiative ""Strom ohne Atom – Für eine Energiewende und die Stilllegung der Atomkraftwerke",202,"eidgenössisch",4,167,34.74,"Umwelt+Verkehr",1
+2003-05-18,"Volksinitiative ""für einen autofreien Sonntag pro Jahreszeit – ein Versuch für vier Jahre""",199,"eidgenössisch",7,164,42.22,"Umwelt+Verkehr",1
+2003-05-18,"Volksinitiative ""Gesundheit muss bezahlbar bleiben (Gesundheitsinitiative)""",200,"eidgenössisch",2,169,28.02,"Gesundheit",2
+2003-05-18,"Volksinitiative ""Gleiche Rechte für Behinderte""",201,"eidgenössisch",4,167,37.78,"Soziales",3
+2003-05-18,"Volksinitiative ""Ja zu fairen Mieten""",198,"eidgenössisch",4,167,33,"Soziales",3
+2003-05-18,"Bundesgesetz über den Bevölkerungsschutz und den Zivilschutz",197,"eidgenössisch",171,0,81.01,"Sicherheit+Armee",10
+2003-05-18,"Änderung des Bundesgesetzes über die Armee und die Militärverwaltung (Armee XXI)",196,"eidgenössisch",170,1,75.72,"Sicherheit+Armee",10
+2003-05-18,"Kantonale Steuerinitiative",8,"kantonal",4,167,36.14,"Finanzen",11
+2003-11-30,"Anerkennungsgesetz",208,"kantonal",8,163,35.94,"Kirche+Staat",6
+2003-11-30,"Kirchengesetz",207,"kantonal",16,155,45.82,"Kirche+Staat",6
+2003-11-30,"Kantonsverfassung (Änderung: Aufgabenteilung Kanton/Gemeinden)",205,"kantonal",171,0,83.42,"Demokratie",5
+2003-11-30,"Kantonsverfassung (Verhältnis zwischen Kirchen/Staat)",206,"kantonal",14,157,44.99,"Kirche+Staat",6
+2003-11-30,"Polizei- und Justizzentrum Zürich",209,"kantonal",105,66,55.7,"Sicherheit+Armee",10
+2003-11-30,"Maximalsteuerfuss in der Verfassung",212,"kantonal",8,163,36.23,"Finanzen",11
+2003-11-30,"Teilrevision der Strafprozessgesetzgebung",211,"kantonal",171,0,76.27,"Sicherheit+Armee",10
+2003-11-30,"Gesundheitsgesetz",210,"kantonal",14,157,41.12,"Gesundheit",2
+2003-11-30,"Abschaffung Handänderungssteuer",213,"kantonal",148,23,52.06,"Wirtschaft",4
+2004-02-08,"Avanti-Gegenvorschlag",214,"eidgenössisch",12,159,37.55,"Andere",8
+2004-02-08,"Neues Mietrecht",215,"eidgenössisch",45,126,38.69,"Soziales",3
+2004-02-08,"Verwahrungsinitiative",216,"eidgenössisch",148,23,53.12,"Law+Order",12
+2004-05-16,"Erhöhung Mehrwertsteuer für AHV/IV",227,"eidgenössisch",2,169,36.59,"Soziales",3
+2004-05-16,"Steuerpaket",228,"eidgenössisch",34,137,38.86,"Finanzen",11
+2004-05-16,"11. AHV-Revision",226,"eidgenössisch",20,151,38.91,"Soziales",3
+2004-05-16,"Wiedereinführung Altersabzug",225,"kantonal",8,163,42.24,"Soziales",3
+2004-09-26,"Kinderzulagen",237,"kantonal",1,170,34.55,"Soziales",3
+2004-09-26,"Sanierungsprogramm",236,"kantonal",98,73,51.21,"Andere",8
+2004-09-26,"Einbürgerung 3. Generation",233,"eidgenössisch",37,134,48.87,"Migrarion",7
+2004-09-26,"Post-Initiative",234,"eidgenössisch",6,165,42.54,"Andere",8
+2004-09-26,"Mutterschaftsversicherung",235,"eidgenössisch",74,97,54.5,"Soziales",3
+2004-09-26,"Einbürgerung 2. Generation",232,"eidgenössisch",16,155,44.37,"Migrarion",7
+2004-11-28,"Finanzausgleich (NFA)",222,"eidgenössisch",154,17,60.5,"Finanzen",11
+2004-11-28,"Finanzordnung",223,"eidgenössisch",171,0,77.19,"Finanzen",11
+2004-11-28,"Stammzellenforschung (StFG)",230,"eidgenössisch",167,4,66.42,"Kirche+Staat",6
+2005-02-27,"Neue Verfassung",238,"kantonal",139,32,64.24,"Demokratie",5
+2005-02-27,"Neubau Forensik Rheinau",239,"kantonal",133,38,60.08,"Andere",8
+2005-06-05,"Schengen/Dublin",240,"eidgenössisch",106,65,58.07,"Migrarion",7
+2005-06-05,"Partnerschaftsgesetz",241,"eidgenössisch",161,10,64.33,"Kirche+Staat",6
+2005-06-05,"Volksschulgesetz",242,"kantonal",157,14,70.44,"Bildung",9
+2005-06-05,"Landschaftsinitiative",243,"kantonal",14,157,44.26,"Umwelt+Verkehr",1
+2005-09-25,"Personenfreizügigkeit",244,"eidgenössisch",116,52,59.41,"Migrarion",7
+2005-09-25,"C: Stichfrage Kinderabzüge",247,"kantonal",0,168,35.02,"Andere",8
+2005-09-25,"B: Gegenvorschlag des Kantonsrates",246,"kantonal",165,3,63.87,"Finanzen",11
+2005-09-25,"A: Verdoppelung der Kinderabzüge",245,"kantonal",0,168,35.57,"Soziales",3
+2005-11-27,"Gentechnikfreie Lebensmittel",248,"eidgenössisch",92,76,50.48,"Umwelt+Verkehr",1
+2005-11-27,"Ladenöffnungszeiten",249,"eidgenössisch",148,20,62.75,"Wirtschaft",4
+2005-11-27,"Staatsbeiträge an Integrationskurse",250,"kantonal",104,64,58.26,"Migrarion",7
+2006-05-21,"Neuordnung Bildung",251,"eidgenössisch",168,0,86.04,"Bildung",9
+2006-05-21,"Universitätsspital Zürich",252,"kantonal",167,1,63.65,"Gesundheit",2
+2006-05-21,"Kantonsspital Winterthur",253,"kantonal",166,2,63.54,"Gesundheit",2
+2006-09-24,"Gold für die AHV (Kosa)",254,"eidgenössisch",4,164,40.52,"Soziales",3
+2006-09-24,"Ausländergesetz",255,"eidgenössisch",165,3,69.08,"Migrarion",7
+2006-09-24,"Asylgesetz",256,"eidgenössisch",164,4,67.44,"Migrarion",7
+2006-11-26,"Zusammenarbeit Osteuropa",261,"eidgenössisch",93,75,56.97,"Andere",8
+2006-11-26,"Familienzulagen",262,"eidgenössisch",167,1,63.92,"Soziales",3
+2006-11-26,"Nur 1 Fremdsprache Primarschule",263,"kantonal",43,125,41.42,"Bildung",9
+2007-03-11,"Für eine soziale Einheitskrankenkasse",264,"eidgenössisch",0,168,21.7,"Gesundheit",2
+2007-06-17,"Ärztliche Zusatzhonorare",266,"kantonal",168,0,75.24,"Gesundheit",2
+2007-06-17,"""Chancen für Kinder""",269,"kantonal",1,167,33.18,"Soziales",3
+2007-06-17,"Stichfrage: Ärztliche Zusatzhonorare (% Vorlage 1A)",268,"kantonal",168,0,81.23,"Gesundheit",2
+2007-06-17,"Gegenvorschlag: Ärztliche Zusatzhonorare",267,"kantonal",0,168,16.69,"Gesundheit",2
+2007-06-17,"5. IV-Revision",265,"eidgenössisch",164,4,62.96,"Soziales",3
+2007-11-25,"Tramlinie Zürich-West",272,"kantonal",164,4,69.79,"Umwelt+Verkehr",1
+2007-11-25,"Änderung Steuergesetz",271,"kantonal",155,13,54.78,"Finanzen",11
+2007-11-25,"""Für eine realistische Flughafenpolitik""",273,"kantonal",14,154,37.32,"Umwelt+Verkehr",1
+2007-11-25,"Stichfrage: Flughafen (% Initiative)",275,"kantonal",14,154,36.46,"Umwelt+Verkehr",1
+2007-11-25,"Gegenvorschlag: Flughafengesetz",274,"kantonal",135,33,63.21,"Soziales",3
+2008-02-24,"Polizeigesetz (PolG)",278,"kantonal",173,1,74.93,"Sicherheit+Armee",10
+2008-02-24,"Unternehmenssteuerreform II",277,"eidgenössisch",121,53,50.24,"Finanzen",11
+2008-02-24,"""Gegen Kampfjetlärm in Tourismusgebieten""",276,"eidgenössisch",1,173,29.21,"Umwelt+Verkehr",1
+2008-06-01,"""Volkssouveränität statt Behördenpropaganda""",280,"eidgenössisch",0,174,27.84,"Demokratie",5
+2008-06-01,"""Für demokratische Einbürgerungen""",279,"eidgenössisch",52,122,39.32,"Migrarion",7
+2008-06-01,"Qualität und Wirtschaftlichkeit in der Krankenversicherung",281,"eidgenössisch",27,147,40.63,"Gesundheit",2
+2008-09-28,"Gegenvorschlag: Passivrauchen",286,"kantonal",20,154,49.55,"Gesundheit",2
+2008-09-28,"Volksinitiative: ""Schutz vor Passivrauchen""",285,"kantonal",127,47,56.58,"Gesundheit",2
+2008-09-28,"Stichfrage: Berufsbildung (% Hauptvorlage 1A)",284,"kantonal",66,108,58.05,"Bildung",9
+2008-09-28,"Einführungsgesetz über die Berufsbildung (Variante ohne Berufsbildungsfonds)",283,"kantonal",134,40,60.53,"Bildung",9
+2008-09-28,"Einführungsgesetz über die Berufsbildung (Hauptvorlage mit Berufsbildungsfonds)",282,"kantonal",107,67,59.88,"Bildung",9
+2008-09-28,"Stichfrage: Passivrauchen (% Volksinitiative 2A)",287,"kantonal",89,85,54.92,"Gesundheit",2
+2008-11-30,"Für die Unverjährbarkeit pornografischer Straftaten an Kindern",288,"eidgenössisch",159,15,54.42,"Law+Order",12
+2008-11-30,"Für ein flexibles AHV-Alter",289,"eidgenössisch",3,171,38.83,"Soziales",3
+2008-11-30,"Einschränkung Verbandsbeschwerde",290,"eidgenössisch",16,158,38.19,"Demokratie",5
+2008-11-30,"Für eine vernünftige Hanf-Politik mit wirksamem Jugendschutz",291,"eidgenössisch",7,167,43.26,"Gesundheit",2
+2008-11-30,"Bundesgesetz über die Betäubungsmittel",292,"eidgenössisch",174,0,72.29,"Gesundheit",2
+2008-11-30,"Mit dem Tram direkt zum Zoo",299,"kantonal",0,174,27.04,"Umwelt+Verkehr",1
+2008-11-30,"Hundegesetz: Variante mit Kampfhundeverbot",294,"kantonal",147,27,61.13,"Law+Order",12
+2008-11-30,"Stichfrage: Hundegesetz (% Hauptvorlage 1A)",295,"kantonal",3,171,44.88,"Law+Order",12
+2008-11-30,"Harmonisierung der obligatorischen Schule",296,"kantonal",131,43,62.37,"Bildung",9
+2008-11-30,"Schluss mit der Schuldenwirtschaft zu Lasten unserer Kinder",297,"kantonal",19,155,39.65,"Finanzen",11
+2008-11-30,"Ja zur Wahlfreiheit beim Medikamentenbezug",298,"kantonal",141,33,53.72,"Gesundheit",2
+2008-11-30,"Hundegesetz: Hauptvorlage",293,"kantonal",174,0,79.89,"Law+Order",12
+2009-02-08,"Weiterführung des Abkommens über die Personenfreizügigkeit",300,"eidgenössisch",137,37,61.89,"Migrarion",7
+2009-02-08,"Abschaffung der Pauschalsteuer",301,"kantonal",101,73,52.87,"Finanzen",11
+2009-05-17,"Zukunft mit Komplementärmedizin",302,"eidgenössisch",172,2,62.36,"Gesundheit",2
+2009-05-17,"Biometrischer Pass",303,"eidgenössisch",98,76,51.96,"Law+Order",12
+2009-05-17,"Halbstündliche S-Bahn für Alle",304,"kantonal",13,161,36.57,"Umwelt+Verkehr",1
+2009-09-27,"Zusatzfinanzierung der Invalidenversicherung",305,"eidgenössisch",76,98,54.84,"Soziales",3
+2009-09-27,"Verteilung des Fluglärms",307,"kantonal",15,159,24.81,"Umwelt+Verkehr",1
+2009-09-27,"Verzicht auf die Einführung der allg. Volksinitiative.",306,"eidgenössisch",174,0,71.37,"Demokratie",5
+2009-11-29,"Verbot von Kriegsmaterial-Exporten",309,"eidgenössisch",3,171,33.9,"Law+Order",12
+2009-11-29,"Spezialfinanzierung für Luftverkehr",308,"eidgenössisch",174,0,69.15,"Umwelt+Verkehr",1
+2009-11-29,"Gegen den Bau von Minaretten",310,"eidgenössisch",143,31,51.81,"Kirche+Staat",6
+2010-03-07,"Forschung am Menschen",311,"eidgenössisch",174,0,77.96,"Kirche+Staat",6
+2010-03-07,"Tierschutzanwalt-Initiative",312,"eidgenössisch",1,173,36.48,"Andere",8
+2010-03-07,"Änderung des BVG (Mindestumwandlungssatz)",313,"eidgenössisch",3,171,32.73,"Soziales",3
+2010-06-13,"Volksinitiative ""Kinderbetreuung Ja""",314,"kantonal",3,171,34.53,"Soziales",3
+2010-06-13,"Gegenvorschlag: Familienergänzende Betreuung",315,"kantonal",118,56,62.38,"Soziales",3
+2010-06-13,"Stichfrage: Kinderbetreuung (% Volksinitiative A)",316,"kantonal",1,173,32.25,"Soziales",3
+2010-09-26,"Revision ALV",317,"eidgenössisch",170,4,59.59,"Soziales",3
+2010-09-26,"Volksinitiative ""Schienen für Zürich""",319,"kantonal",0,174,30.13,"Umwelt+Verkehr",1
+2010-09-26,"Verfassungsänderung: Neue Prozessgesetze",318,"kantonal",174,0,91.63,"Law+Order",12
+2010-11-28,"Ausschaffungsinitiative",320,"eidgenössisch",139,35,50.77,"Migrarion",7
+2010-11-28,"Stichfrage: Initiative (% Volksinitiative)",322,"eidgenössisch",108,66,47.68,"Andere",8
+2010-11-28,"Gegenentwurf zur Ausschaffungsinitiative",321,"eidgenössisch",22,152,46.92,"Migrarion",7
+2010-11-28,"Steuergerechtigkeits-Initiative",323,"eidgenössisch",11,163,41.07,"Soziales",3
+2011-02-13,"Volksinitiative ""Schutz vor Waffengewalt""",324,"eidgenössisch",31,143,50.37,"Law+Order",12
+2011-02-13,"Erweiterungsbau Landesmuseum Zürich",326,"kantonal",173,1,62.28,"Andere",8
+2011-02-13,"Verkehrssicherheitsinitiative",325,"kantonal",0,174,26.71,"Umwelt+Verkehr",1
+2011-05-15,"Volksinitiative ""JA zur Mundart im Kindergarten""",337,"kantonal",152,22,53.9,"Bildung",9
+2011-05-15,"Volksinitiative Nein zum Sterbetourismus",338,"kantonal",0,174,21.59,"Kirche+Staat",6
+2011-05-15,"Volksinitiative ""Stopp der Suizidhilfe!""",339,"kantonal",0,174,15.52,"Kirche+Staat",6
+2011-05-15,"Volksinitiative Tragbare Krankenkassenprämien",340,"kantonal",4,170,38.51,"Gesundheit",2
+2011-05-15,"Beschluss des Kantonsrates: Steuergesetz",327,"kantonal",99,75,49.23,"Finanzen",11
+2011-05-15,"Gegenvorschlag: Eine nachhaltige Steuerstrategie",328,"kantonal",0,174,19.39,"Finanzen",11
+2011-05-15,"Gegenvorschlag: Tiefere Steuern für Familien",329,"kantonal",1,173,37.38,"Finanzen",11
+2011-05-15,"Stichfrage 1: Vorlage A oder B? (% für A)",330,"kantonal",137,37,52.79,"Finanzen",11
+2011-05-15,"Stichfrage 2: Vorlage A oder C? (% für A)",331,"kantonal",142,32,52.68,"Finanzen",11
+2011-05-15,"Stichfrage 3: Vorlage B oder C? (% für B)",332,"kantonal",24,150,42.39,"Finanzen",11
+2011-05-15,"Finanzausgleichsgesetz",333,"kantonal",166,8,73.79,"Finanzen",11
+2011-05-15,"Gegenentwurf: Gerechtes Finanzausgleichgesetz",334,"kantonal",1,173,28.79,"Finanzen",11
+2011-05-15,"Stichfrage: F-Ausgleichsgesetz (% KR-Beschluss A)",335,"kantonal",154,20,71.46,"Finanzen",11
+2011-05-15,"Krankenversicherungsgesetz",336,"kantonal",162,12,55.41,"Gesundheit",2
+2011-09-04,"Sozialhilfegesetz",341,"kantonal",116,58,61.39,"Soziales",3
+2011-09-04,"Gegenvorschlag von Stimmberechtigten",342,"kantonal",43,131,38.34,"Soziales",3
+2011-09-04,"Stichfrage",343,"kantonal",118,56,61.35,"Soziales",3
+2011-09-04,"Hauswirtschaftliche Fortbildung",344,"kantonal",100,74,50.21,"Bildung",9
+2011-09-04,"Gesetz für ein Polizei- und Justizzentrum",345,"kantonal",38,136,45.82,"Law+Order",12
+2011-09-04,"""Für einen wettbewerbsfähigen Kanton Zürich""",346,"kantonal",3,171,30.9,"Wirtschaft",4
+2011-11-27,"Flughafengesetz: Keine Neu- und Ausbauten von Pisten",347,"kantonal",33,141,41.22,"Umwelt+Verkehr",1
+2011-11-27,"Gegenvorschlag",348,"kantonal",12,162,31.77,"Andere",8
+2011-11-27,"Stichfrage",349,"kantonal",171,3,73.19,"Andere",8
+2011-11-27,"Volksinitiative ""Stau weg!""",350,"kantonal",5,169,37.1,"Umwelt+Verkehr",1
+2011-11-27,"Volksinitiative ""Für faire Ferien""",351,"kantonal",4,170,38.34,"Soziales",3
+2012-03-11,"""Schluss mit uferlosem Bau von Zweitwohnungen!""",352,"eidgenössisch",79,95,52.49,"Umwelt+Verkehr",1
+2012-03-11,"Bauspar-Initiative",353,"eidgenössisch",5,169,38.27,"Andere",8
+2012-03-11,"""6 Wochen Ferien für alle""",354,"eidgenössisch",2,172,33.57,"Soziales",3
+2012-03-11,"Geldspiele zugunsten gemeinnütziger Zwecke",355,"eidgenössisch",174,0,87.85,"Soziales",3
+2012-03-11,"Buchpreisbindung (BuPG)",356,"eidgenössisch",3,171,37.52,"Finanzen",11
+2012-03-11,"Kantonales Bürgerrechtsgesetz",357,"kantonal",6,168,43.67,"Migrarion",7
+2012-03-11,"Gegenvorschlag Bürgerrechtsgesetz",358,"kantonal",49,125,40.36,"Migrarion",7
+2012-03-11,"Stichfrage Bürgerrechtsgesetz",359,"kantonal",111,63,58.81,"Migrarion",7
+2012-06-17,"Volksinitiave ""Bausparen""",360,"eidgenössisch",0,174,28.73,"Andere",8
+2012-06-17,"Spitalplanungsgesetz Hauptvorlage",364,"kantonal",173,1,66.71,"Gesundheit",2
+2012-06-17,"Kulturlandinitiative",372,"kantonal",90,84,54.53,"Umwelt+Verkehr",1
+2012-06-17,"Volksinitiative für freie Schulwahl",371,"kantonal",0,174,18.23,"Bildung",9
+2012-06-17,"Volksinitiative für freie Ladenöffnungszeiten",370,"kantonal",0,174,29.32,"Wirtschaft",4
+2012-06-17,"Verkehrsabgabengesetz",369,"kantonal",99,75,58.29,"Umwelt+Verkehr",1
+2012-06-17,"Stichfrage 2: Hauptvorlage oder Gegenvorschlag",368,"kantonal",158,16,56.04,"Gesundheit",2
+2012-06-17,"Stichfrage 1: Hauptvorlage oder Variante",367,"kantonal",162,12,57.4,"Gesundheit",2
+2012-06-17,"Gegenvorschlag von Stimmberechtigten",366,"kantonal",36,138,48.98,"Gesundheit",2
+2012-06-17,"Spitalplanungsgesetz Variante Stützungsfonds",365,"kantonal",31,143,47.92,"Gesundheit",2
+2012-06-17,"Steuergesetz",363,"kantonal",103,71,49.85,"Finanzen",11
+2012-06-17,"KVG: Managed Care",362,"eidgenössisch",0,174,28.06,"Gesundheit",2
+2012-06-17,"Volksinitiative ""Staatsverträge vors Volk!""",361,"eidgenössisch",0,174,26.11,"Demokratie",5
+2012-09-23,"""Sicheres Wohnen im Alter""",374,"eidgenössisch",137,37,47.94,"Soziales",3
+2012-09-23,"""Schutz vor Passivrauchen""",375,"eidgenössisch",0,174,32.92,"Gesundheit",2
+2012-09-23,"Abschaffung des konstruktiven Referendums",376,"kantonal",171,3,59.6,"Demokratie",5
+2012-09-23,"Autobahnzubringer A4 Obfelden/Ottenbach",377,"kantonal",171,3,62.55,"Umwelt+Verkehr",1
+2012-09-23,"Jugendmusikförderung",373,"eidgenössisch",174,0,74.3,"Bildung",9
+2012-11-25,"Volksinitiative ""Rechtsschutz für alle""",382,"kantonal",9,165,40.21,"Soziales",3
+2012-11-25,"Volksinitiative ""Transparente Mieten""",383,"kantonal",37,137,52.3,"Soziales",3
+2012-11-25,"Stichfrage: Hauptvorlage oder Gegenvorschlag",381,"kantonal",2,172,36.26,"Andere",8
+2012-11-25,"Gegenvorschlag des Kantonsrates",380,"kantonal",19,155,45.21,"Andere",8
+2012-11-25,"prima-Initiative",379,"kantonal",1,173,28.71,"Andere",8
+2012-11-25,"Tierseuchengesetz",378,"eidgenössisch",161,13,67.18,"Andere",8
+2013-03-03,"Gegenvorschlag zu Personalrecht",388,"kantonal",11,163,42.28,"Bildung",9
+2013-03-03,"Sanierung Versicherungskasse für das Staatspersonal",392,"kantonal",165,9,65.21,"Soziales",3
+2013-03-03,"Mittelschulgesetz",391,"kantonal",173,1,69.27,"Bildung",9
+2013-03-03,"Steuergesetz",390,"kantonal",69,105,44.08,"Finanzen",11
+2013-03-03,"Familienpolitik",384,"eidgenössisch",57,117,53.57,"Soziales",3
+2013-03-03,"Abzockerinitiative",385,"eidgenössisch",174,0,70.2,"Wirtschaft",4
+2013-03-03,"Raumplanungsgesetz",386,"eidgenössisch",174,0,71.26,"Umwelt+Verkehr",1
+2013-03-03,"Personalrecht Volksschule",387,"kantonal",174,0,67.92,"Bildung",9
+2013-03-03,"Stichfrage zu Personalrecht",389,"kantonal",172,2,59.32,"Bildung",9
+2013-06-09,"Volkswahl des Bundesrates",393,"eidgenössisch",0,174,25.27,"Demokratie",5
+2013-06-09,"Änderung des Asylgesetzes",394,"eidgenössisch",173,1,79.68,"Migrarion",7
+2013-06-09,"Gegen Gewalt bei Sportveranstaltungen",395,"kantonal",174,0,85.45,"Law+Order",12
+2013-06-09,"Volksinitiative ""Bonzensteuer""",396,"kantonal",6,168,38.42,"Finanzen",11
+2013-09-22,"Volksinitiative «Für mehr Demokratie»",2400,"kantonal",1,173,24.98,"Demokratie",5
+2013-09-22,"Arbeitsgesetz: Öffnungszeiten der Tankstellenshops",2399,"eidgenössisch",169,5,62.63,"Wirtschaft",4
+2013-09-22,"Epidemiengesetz",2398,"eidgenössisch",142,32,60.49,"Gesundheit",2
+2013-09-22,"Volksinitiative Aufhebung der Wehrpflicht",2397,"eidgenössisch",2,172,28.6,"Law+Order",12
+2013-11-24,"Volksinitiative ""1:12 - für gerechte Löhne""",2401,"eidgenössisch",1,173,32.85,"Soziales",3
+2013-11-24,"Volksinitiative Steuerabzüge auch Kinder-Selbstbetreuung",2402,"eidgenössisch",43,131,39.05,"Soziales",3
+2013-11-24,"Nationalstrassenabgabegesetz: NSAG",2403,"eidgenössisch",10,164,44.31,"Umwelt+Verkehr",1
+2014-02-09,"Ausbau der Eisenbahninfrastruktur",2404,"eidgenössisch",138,36,63.13,"Umwelt+Verkehr",1
+2014-02-09,"Planungs- und Baugesetz (PBG)",2407,"kantonal",68,106,54.63,"Umwelt+Verkehr",1
+2014-02-09,"Volksinitiative ""Gegen Masseneinwanderung""",2406,"eidgenössisch",126,48,47.34,"Migrarion",7
+2014-02-09,"Volksinitiative ""Abtreibungsfinanzierung ist Privatsache""",2405,"eidgenössisch",1,173,29.93,"Kirche+Staat",6
+2014-05-18,"Kirchensteuerinitiative",2412,"kantonal",0,174,28.16,"Kirche+Staat",6
+2014-05-18,"Gripen-Fonds-Gesetz",2411,"eidgenössisch",143,31,48.74,"Sicherheit+Armee",10
+2014-05-18,"Mindestlohn-Initiative",2410,"eidgenössisch",0,174,25.3,"Wirtschaft",4
+2014-05-18,"Pädophile sollen nicht mehr mit Kindern arbeiten dürfen",2409,"eidgenössisch",166,8,57.25,"Law+Order",12
+2014-05-18,"Keine Werbung für alkoholische Getränke auf Sportplätzen",2413,"kantonal",0,174,37.83,"Andere",8
+2014-05-18,"Medizinische Grundversorgung",2408,"eidgenössisch",174,0,86.82,"Gesundheit",2
+2014-09-28,"Schluss mit der MwSt-Diskriminierung des Gastgewerbes!",2414,"eidgenössisch",0,174,23.93,"Finanzen",11
+2014-09-28,"Volksabstimmung Mindestanteil preisgünstiger Wohnraum",2416,"kantonal",88,86,58.39,"Soziales",3
+2014-09-28,"Für eine öffentliche Krankenkasse",2415,"eidgenössisch",1,173,32.47,"Gesundheit",2
+2014-11-30,"Volksinitiative: Abschaffung der Pauschalbesteuerung",2417,"eidgenössisch",33,142,49.08,"Finanzen",11
+2014-11-30,"Volksinitiative: «Stopp der Überbevölkerung»",2418,"eidgenössisch",0,175,24.35,"Migrarion",7
+2014-11-30,"Volksinitiative: «Rettet unser Schweizer Gold»",2419,"eidgenössisch",0,175,20.57,"Finanzen",11
+2014-11-30,"Staatsbeitrag an den Bau der Tramverbindung Hardbrücke in Zürich-West",2420,"kantonal",162,12,66.03,"Finanzen",11
+2014-11-30,"Volksinitiative: «Mehr Qualität im Unterricht dank kleinerer Klassen»",2421,"kantonal",0,174,34.48,"Bildung",9
+2014-11-30,"Stichfrage: Mehr Qualität im Unterricht",2423,"kantonal",0,174,33.9,"Bildung",9
+2014-11-30,"Gegenvorschlag: Lehrpersonalgesetz Verringerung der Klassengrösse",2422,"kantonal",65,109,53.33,"Bildung",9
+2014-11-30,"Volksinitiative: Bahnhof Stadelhofen",2424,"kantonal",0,174,33.33,"Umwelt+Verkehr",1
+2015-03-08,"Volksinitiative «Energie- statt Mehrwertsteuer»",2426,"eidgenössisch",0,175,10.86,"Finanzen",11
+2015-03-08,"Volksinitiative«Familien stärken! Steuerfreie Kinder- und Ausbildungszulagen»",2425,"eidgenössisch",0,175,20.42,"Finanzen",11
+2015-06-14,"Stipendieninitiative",2428,"eidgenössisch",1,174,26.63,"Soziales",3
+2015-06-14,"Verfassungsbestimmung zur Fortpflanzungsmedizin und Gentechnologie",2427,"eidgenössisch",163,12,64.77,"Kirche+Staat",6
+2015-06-14,"Erbschaftssteuerreform",2429,"eidgenössisch",2,173,32.95,"Finanzen",11
+2015-06-14,"Bundesgesetz über Radio und Fernsehen",2430,"eidgenössisch",21,154,47.93,"Andere",8
+2015-06-14,"Obligatorisches Referendum für Gebühren",2431,"kantonal",5,169,40.61,"Bildung",9
+2015-06-14,"Gebührenkatalog",2432,"kantonal",0,174,35.7,"Bildung",9
+2015-06-14,"Keine Härtefallkommission für abgewiesene Asylsuchende",2433,"kantonal",1,173,31.76,"Migrarion",7
+2015-11-22,"Staatsbeiträge für den Bau der Limmattalbahn",2434,"kantonal",157,17,64.45,"Umwelt+Verkehr",1
+2016-02-28,"Durchsetzungsinitiative",2436,"eidgenössisch",30,145,35.01,"Migrarion",7
+2016-02-28,"Für Ehe und Familie",2435,"eidgenössisch",84,91,43.46,"Kirche+Staat",6
+2016-02-28,"Keine Spekulation mit Nahrungsmitteln",2437,"eidgenössisch",7,168,40.37,"Wirtschaft",4
+2016-02-28,"Sanierung Gotthard-Strassentunnel",2438,"eidgenössisch",161,14,55.57,"Umwelt+Verkehr",1
+2016-02-28,"Notariatsgesetz",2439,"kantonal",164,10,57.61,"Andere",8
+2016-02-28,"Verwaltungsrechtspflegegesetz",2440,"kantonal",172,2,61.26,"Andere",8
+2016-02-28,"Bildungsinitiative",2441,"kantonal",0,174,24.79,"Bildung",9
+2016-02-28,"Lohndumpinginitiative",2442,"kantonal",5,169,36.74,"Soziales",3
+2016-06-05,"Für ein bedingungsloses Grundeinkommen",2444,"eidgenössisch",1,174,25.09,"Soziales",3
+2016-06-05,"Pro Service public",2443,"eidgenössisch",0,175,31.08,"Andere",8
+2016-06-05,"Für eine faire Verkehrsfinanzierung",2445,"eidgenössisch",1,174,28.71,"Umwelt+Verkehr",1
+2016-06-05,"Gerichts- und Behördenorganisation im Zivil- und Strafprozess",2448,"kantonal",139,35,65.64,"Andere",8
+2016-06-05,"Änderung des Asylgesetzes",2447,"eidgenössisch",170,5,70.07,"Migrarion",7
+2016-06-05,"Fortpflanzungsmedizingesetz",2446,"eidgenössisch",167,8,63.1,"Kirche+Staat",6
+2016-09-25,"Volksinitiative «Für eine nachhaltige und ressourceneffiziente Wirtschaft (Grüne Wirtschaft)»",2449,"eidgenössisch",6,169,37.67,"Finanzen",11
+2016-09-25,"Volksinitiative «AHVplus: für eine starke AHV»",2450,"eidgenössisch",3,172,38.34,"Soziales",3
+2016-09-25,"Bundesgesetz über den Nachrichtendienst (Nachrichtendienstgesetz: NDG)",2451,"eidgenössisch",173,2,63.98,"Sicherheit+Armee",10
+2016-09-25,"Volksinitiative «Bezahlbare Kinderbetreuung für alle»",2452,"kantonal",2,172,29.48,"Soziales",3
+2016-11-27,"Umsetzung der Kulturlandinitiative Änderung des Planungs- und Baugesetzes (PBG)",2454,"kantonal",6,168,41.02,"Finanzen",11
+2016-11-27,"Volksinitiative «Für den geordneten Ausstieg aus der Atomenergie (Atomausstiegsinitiative)»",2453,"eidgenössisch",19,156,47.13,"Umwelt+Verkehr",1
+2016-11-27,"Kantonale Volksinitiative «Schutz der Ehe»",2455,"kantonal",0,174,19.09,"Kirche+Staat",6
+2017-02-12,"Unternehmenssteuerreformgesetz III",2458,"eidgenössisch",12,163,37.53,"Wirtschaft",4
+2017-02-12,"Fonds für die Nationalstrassen und den Agglomerationsverkehr",2457,"eidgenössisch",168,7,60.27,"Umwelt+Verkehr",1
+2017-02-12,"Erleichterte Einbürgerung der dritten Ausländergeneration",2456,"eidgenössisch",129,46,63.18,"Migrarion",7
+2017-05-21,"Gesetz über die Kantonsspital Winterthur AG",2460,"kantonal",82,92,46.52,"Gesundheit",2
+2017-05-21,"Kantonale Volksinitiative «Mehr Qualität – eine Fremdsprache an der Primarschule»",2462,"kantonal",17,157,39.24,"Bildung",9
+2017-05-21,"Gesetz über die Integrierte Psychiatrie Winterthur – Zürcher Unterland AG",2461,"kantonal",97,77,48.8,"Umwelt+Verkehr",1
+2017-05-21,"Energiegesetz (EnG) vom 30. September 2016",2459,"eidgenössisch",105,70,58.79,"Wirtschaft",4
+2017-09-24,"Steuergesetz (Begrenzung des Arbeitswegkostenabzugs)",2467,"kantonal",163,11,70.71,"Finanzen",11
+2017-09-24,"Kantonsverfassung (Gegenvorschlag zur Anti-Stauinitiative)",2466,"kantonal",166,8,61.27,"Umwelt+Verkehr",1
+2017-09-24,"Gesetz über die Jugendheime und die Pflegekinderfürsorge",2468,"kantonal",173,1,74.42,"Soziales",3
+2017-09-24,"Bundesgesetz vom 17. März 2017 über die Reform der Altersvorsorge 2020",2465,"eidgenössisch",34,141,50.93,"Soziales",3
+2017-09-24,"Zusatzfinanzierung der AHV durch eine Erhöhung der Mehrwertsteuer",2464,"eidgenössisch",77,98,54.35,"Finanzen",11
+2017-09-24,"Bundesbeschluss vom 14. März 2017 über die Ernährungssicherheit",2463,"eidgenössisch",175,0,77.27,"Umwelt+Verkehr",1
+2017-09-24,"Sozialhilfegesetz (Aufhebung Sozialhilfeleistungen für vorläufig Aufgenommene)",2469,"kantonal",171,3,67.2,"Migrarion",7
+2018-03-04,"Neue Finanzordnung 2021",2470,"eidgenössisch",175,0,86.83,"Finanzen",11
+2018-03-04,"Ja zur Abschaffung der Radio- und Fernsehgebühren",2471,"eidgenössisch",0,175,28.44,"Andere",8
+2018-03-04,"Kantonale Volksinitiative «Lehrplan vors Volk»",2472,"kantonal",0,174,23.59,"Bildung",9
+2018-06-10,"Volksinitiative «Für krisensicheres Geld: Geldschöpfung allein durch die Nationalbank!»",2473,"eidgenössisch",0,175,24.67,"Andere",8
+2018-06-10,"Bundesgesetz über Geldspiele (Geldspielgesetz)",2474,"eidgenössisch",175,0,65.87,"Wirtschaft",4
+2018-06-10,"Verrechnung von Geschäftsverlusten bei der Grundstückgewinnsteuer",2475,"kantonal",150,24,53.56,"Finanzen",11
+2018-06-10,"Einlage in den Verkehrsfonds",2476,"kantonal",0,174,33.22,"Umwelt+Verkehr",1
+2018-09-23,"Bundesbeschluss vom 13. März 2018 über die Velowege sowie die Fuss- und Wanderwege",2477,"eidgenössisch",174,1,71.92,"Umwelt+Verkehr",1
+2018-09-23,"Kantonale Volksinitiative «Stoppt die Limmattalbahn – ab Schlieren!»",2482,"kantonal",0,174,17.09,"Umwelt+Verkehr",1
+2018-09-23,"Kantonale Volksinitiative «Wildhüter statt Jäger»",2481,"kantonal",0,174,16.14,"Umwelt+Verkehr",1
+2018-09-23,"Volksinitiative «Für gesunde sowie umweltfreundlich und fair hergestellte Lebensmittel»",2478,"eidgenössisch",4,171,35.31,"Umwelt+Verkehr",1
+2018-09-23,"Volksinitiative vom 30. März 2016 «Für Ernährungssouveränität. Die Landwirtschaft betrifft uns alle»",2479,"eidgenössisch",0,175,25.92,"Umwelt+Verkehr",1
+2018-09-23,"Kantonale Volksinitiative «Film- und Medienförderungsgesetz»",2480,"kantonal",0,174,19.22,"Finanzen",11
+2018-11-25,"Volksinitiative vom 23. März 2016 «Für die Würde der landwirtschaftlichen Nutztiere»",2483,"eidgenössisch",24,151,48.13,"Umwelt+Verkehr",1
+2018-11-25,"Volksinitiative vom 12. August 2016 «Schweizer Recht statt fremde Richter»",2484,"eidgenössisch",19,156,32.07,"Demokratie",5
+2018-11-25,"Änderung des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG)",2485,"eidgenössisch",170,5,64.27,"Soziales",3
+2019-02-10,"Volksinitiative  «Zersiedelung stoppen – für eine nachhaltige Siedlungsentwicklung (Zersiedelungsinitiative)»",2486,"eidgenössisch",8,167,40.04,"Umwelt+Verkehr",1
+2019-02-10,"Hundegesetz",2487,"kantonal",1,173,30.42,"Andere",8
+2019-02-10,"Wassergesetz",2488,"kantonal",53,121,45.43,"Andere",8
+2019-05-19,"Bundesgesetz über die Steuerreform und die AHV Finanzierung",2489,"eidgenössisch",173,2,65.87,"Soziales",3
+2019-05-19,"Umsetzung einer Änderung der EU-Waffenrichtlinie",2490,"eidgenössisch",152,23,70.58,"Law+Order",12
+2019-09-01,"Steuergesetz (StG) (Änderung vom 1. April 2019: Steuervorlage 17)",2491,"kantonal",146,28,55.95,"Finanzen",11
+2020-02-09,"Volksinitiative «Mehr bezahlbare Wohnungen»",2492,"eidgenössisch",16,159,46.5,"Soziales",3
+2020-02-09,"Verbot der Diskriminierung aufgrund der sexuellen Orientierung",2493,"eidgenössisch",133,42,63.52,"Kirche+Staat",6
+2020-02-09,"Gesetz über den Personaltransport mit Taxis und Limousinen",2494,"kantonal",97,77,52.84,"Andere",8
+2020-02-09,"Rosengarten-Verkehrsgesetz",2495,"kantonal",1,173,37.23,"Umwelt+Verkehr",1
+2020-02-09,"Rahmenkredit für das Gesamtprojekt Rosengartentram und Rosengarten",2496,"kantonal",0,174,36.32,"Umwelt+Verkehr",1
+2020-02-09,"Volksinitiative «Für die Entlastung der unteren und mittleren Einkommen (Entlastungsinitiative)»",2497,"kantonal",14,160,42.04,"Umwelt+Verkehr",1
+2020-02-09,"Volksinitiative «Mittelstandsinitiative - weniger Steuerbelastung für alle»",2498,"kantonal",0,174,29.63,"Finanzen",11
+2020-02-09,"Stichfrage",2499,"kantonal",98,76,54.95,"Finanzen",11
+2020-09-27,"Volksinitiative «Für eine massvolle Zuwanderung»",2505,"eidgenössisch",26,149,34.25,"Migrarion",7
+2020-09-27,"Strassengesetz (StrG) (Änderung: Unterhalt von Gemeindestrassen)",2511,"kantonal",127,47,55.23,"Umwelt+Verkehr",1
+2020-09-27,"Änderung des Bundesgesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel",2506,"eidgenössisch",29,146,41.36,"Umwelt+Verkehr",1
+2020-09-27,"Änderung des Bundesgesetzes über die direkte Bundessteuer (DBG)",2507,"eidgenössisch",2,173,33.84,"Finanzen",11
+2020-09-27,"Änderung des Bundesgesetzes über den Erwerbsersatz für Dienstleistende und bei Mutterschaft",2508,"eidgenössisch",129,46,61.75,"Soziales",3
+2020-09-27,"Bundesbeschluss über die Beschaffung neuer Kampfflugzeuge",2509,"eidgenössisch",153,22,50.26,"Sicherheit+Armee",10
+2020-09-27,"Zusatzleistungsgesetz (ZLG) (Änderung: Beiträge des Kantons)",2510,"kantonal",157,17,61.82,"Andere",8
+2020-11-29,"Volksinitiative «Für verantwortungsvolle Unternehmen – zum Schutz von Mensch und Umwelt»",2512,"eidgenössisch",40,135,52.83,"Umwelt+Verkehr",1
+2020-11-29,"Volksinitiative «Für ein Verbot der Finanzierung von Kriegsmaterialproduzenten»",2513,"eidgenössisch",17,158,45.66,"Law+Order",12
+2021-03-07,"C. Stichfrage: Welche der beiden Vorlagen soll in Kraft treten",2521,"kantonal",76,98,41.48,"Law+Order",12
+2021-03-07,"Volksinitiative «Ja zum Verhüllungsverbot»",2514,"eidgenössisch",118,57,45.14,"Kirche+Staat",6
+2021-03-07,"Bundesgesetz über elektronische Identifizierungsdienste",2515,"eidgenössisch",1,174,35.38,"Law+Order",12
+2021-03-07,"Wirtschaftspartnerschaftsabkommen zwischen EFTA-Staaten und Indonesien",2516,"eidgenössisch",164,11,58.18,"Wirtschaft",4
+2021-03-07,"Verfassung des Kantons Zürich (Anpassung Grenzwerte)",2517,"kantonal",174,0,80.42,"Andere",8
+2021-03-07,"Sozialhilfegesetz (SHG) (Klare rechtliche Grundlage für Sozialdetektive)",2518,"kantonal",174,0,67.73,"Law+Order",12
+2021-03-07,"A. Volksinitiative «Bei Polizeimeldungen sind die Nationalitäten anzugeben»",2519,"kantonal",100,74,43.76,"Law+Order",12
+2021-03-07,"B. Gegenvorschlag des Kantonsrates Polizeigesetz (PolG)",2520,"kantonal",162,12,55.21,"Gesundheit",2
+2021-06-13,"Volksinitiative «Für eine Schweiz ohne synthetische Pestizide»",2523,"eidgenössisch",18,157,47.94,"Umwelt+Verkehr",1
+2021-06-13,"Volksinitiative «Mehr Geld für Familien»",2529,"kantonal",3,171,38.46,"Soziales",3
+2021-06-13,"Volksinitiative «Raus aus der Prämienfalle»",2528,"kantonal",3,171,36.05,"Gesundheit",2
+2021-06-13,"Einführungsgesetz zum Bundesgesetz über Geldspiele (EG BGS)",2527,"kantonal",174,0,65,"Andere",8
+2021-06-13,"Bundesgesetz über polizeiliche Massnahmen zur Bekämpfung von Terrorismus (PMT)",2526,"eidgenössisch",154,21,54.45,"Law+Order",12
+2021-06-13,"Bundesgesetz über die Verminderung von Treibhausgasemissionen (CO2-Gesetz)",2525,"eidgenössisch",59,116,55.41,"Umwelt+Verkehr",1
+2021-06-13,"Volksinitiative «Für sauberes Trinkwasser und gesunde Nahrung»",2522,"eidgenössisch",24,151,49.3,"Umwelt+Verkehr",1
+2021-06-13,"Bundesgesetz über gesetzlichen Grundlagen zur Bewältigung der Covid-19-Epidemie",2524,"eidgenössisch",148,27,64.37,"Gesundheit",2
+2021-09-26,"Volksinitiative «Löhne entlasten: Kapital gerecht besteuern»",2530,"eidgenössisch",7,168,35.96,"Soziales",3
+2021-09-26,"Änderung des Schweizerischen Zivilgesetzbuches (Ehe für alle)",2531,"eidgenössisch",172,3,69.11,"Kirche+Staat",6
+2021-11-28,"Volksinitiative «Bestimmung der Bundesrichterinnen und Bundesrichter im Losverfahren»",2533,"eidgenössisch",0,175,32.66,"Demokratie",5
+2021-11-28,"Volksinitiative «Für eine starke Pflege (Pflegeinitiative)»",2532,"eidgenössisch",167,8,61.76,"Gesundheit",2
+2021-11-28,"Änderung des Bundesgesetzes (Covid-19-Gesetz)",2534,"eidgenössisch",166,9,66.19,"Gesundheit",2
+2021-11-28,"Energiegesetz (EnerG) (Änderung vom 19. April 2021: Umsetzung der MuKEn 2014)",2535,"kantonal",147,27,62.63,"Wirtschaft",4
+2022-02-13,"«Ja zum Tier- und Menschenversuchsverbot»",2541,"eidgenössisch",0,175,20.32,"Kirche+Staat",6
+2022-02-13,"Bundesgesetz über ein Massnahmenpaket zugunsten der Medien",2544,"eidgenössisch",13,162,45.3,"Andere",8
+2022-02-13,"Änderung des Bundesgesetzes über die Stempelabgaben (StG)",2543,"eidgenössisch",11,164,37.1,"Finanzen",11
+2022-02-13,"«Ja zum Schutz der Kinder und Jugendlichen vor Tabakwerbung»",2542,"eidgenössisch",139,36,59.88,"Kirche+Staat",6
+2022-05-15,"Verfassung des Kantons Zürich (Änderung Stimm- und Wahlrechtsalter 16)",2552,"kantonal",5,169,35.24,"Demokratie",5
+2022-05-15,"Verfassung des Kantons Zürich (Änderung vom 25. Oktober 2021: Klimaschutz)",2551,"kantonal",151,23,67.12,"Demokratie",5
+2022-05-15,"Genehmigung und die Umsetzung des Notenaustausches zwischen der Schweiz und der EU",2550,"eidgenössisch",175,0,71.95,"Andere",8
+2022-05-15,"Änderung des Bundesgesetzes über die Transplantation",2548,"eidgenössisch",97,78,55.72,"Kirche+Staat",6
+2022-05-15,"Änderung des Bundesgesetzes über Filmproduktion und Filmkultur",2547,"eidgenössisch",76,99,55.58,"Andere",8
+2022-05-15,"Kantonales Bürgerrechtsgesetz (KBüG)",2553,"kantonal",161,13,69.1,"Kirche+Staat",6
+2022-05-15,"Kantonale Volksinitiative «für eine Elternzeit (Elternzeit-Initiative)»",2554,"kantonal",8,166,35.24,"Soziales",3
+2022-09-25,"Volksinitiative «Keine Massentierhaltung in der Schweiz»",2555,"eidgenössisch",14,161,46.62,"Umwelt+Verkehr",1
+2022-09-25,"Bundesbeschluss über die Zusatzfinanzierung der AHV durch eine Erhöhung der Mehrwertsteuer",2556,"eidgenössisch",171,4,60.27,"Soziales",3
+2022-09-25,"Änderung des Bundesgesetzes über die Alters- und Hinterlassenenversicherung",2557,"eidgenössisch",156,19,55.78,"Soziales",3
+2022-09-25,"Änderung des Bundesgesetzes über die Verrechnungssteuer",2558,"eidgenössisch",110,65,48.28,"Finanzen",11
+2022-09-25,"Verfassung des Kantons Zürich: Gegenvorschlag zur «Kreislauf-Initiative»",2559,"kantonal",174,0,89.27,"Umwelt+Verkehr",1
+2022-09-25,"Keine Steuergeschenke für Grossaktionärinnen und Grossaktionäre",2560,"kantonal",30,144,49.53,"Wirtschaft",4
+2022-11-27,"A. Gerechtigkeit schaffen – Krankenkassen-Prämienabzug der Realität anpassen",2561,"kantonal",146,28,51.08,"Soziales",3
+2022-11-27,"B. Gegenvorschlag des Kantonsrates Steuergesetz (StG)",2562,"kantonal",160,14,55.04,"Wirtschaft",4
+2022-11-27,"C. Stichfrage: Welche der beiden Vorlagen soll in Kraft treten",2563,"kantonal",142,32,49.87,"Andere",8
+2023-06-18,"OECD/G20-Mindestbesteuerung",2564,"eidgenössisch",175,0,76.64,"Wirtschaft",4
+2023-06-18,"Kirchenordnung der Römisch-katholischen Körperschaft",2567,"kantonal",174,0,88.22,"Kirche+Staat",6
+2023-06-18,"Covid-19-Gesetz",2566,"eidgenössisch",156,19,66.46,"Gesundheit",2
+2023-06-18,"Klima-Gesetz",2565,"eidgenössisch",107,68,62.46,"Umwelt+Verkehr",1

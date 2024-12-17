@@ -1,0 +1,268 @@
+---
+title: "Untitled"
+author: "Me"
+date: today
+code-fold: true
+title-block-banner: true
+format:
+  html:
+    self-contained: true
+    theme: flatly
+editor: visual
+bibliography: /Users/poli-glot/Documents/Tools/references.bib
+---
+
+# Introduction
+
+The introduction should quickly address the following aspects:
+
+-   What is your research question?
+
+-   Wie unterscheiden sich die Zustimmung zu Vorlagen nach Politikfeld.
+
+-   What is your approach?
+
+-   Ich habe mir sämmtliche Abstimmungen im Kanton Zürich seit 2000 angesehen, und holistisch einem Politikfeld zugeordnent. Bei Vorlagen die ich nicht zuordnen konnte habe ich diese in die Sammelkategorie "Andere" zugeordnet.
+
+    Ich habe bewusst die Vorlagen zu verkehrspolitischen Vorlagen und Umwelt Themen in eine Kategorie gesetzt, dies aus dem Grund da es oft um Policys ging welche beide Themen Komplexe betreffen z.B ausbau der Limmattalbahn (siehe <https://www.srf.ch/news/schweiz/abstimmung-kanton-zuerich-streit-um-die-limmattalbahn>).
+
+    Die meisten Vorlagen wurden zu den Themen Umwelt + Verkehr und Soziales zur Abstimmzng gestellt.
+
+-   What is your contribution?
+
+-   Es gibt bisher kaum untersuchungen wie sich die Zustimung zu Vorlagen unetrschiedet je anch dem welchem Politikfeld diese zugeordnet werden können.
+
+    In der bisherigen Forschung wurden die Motive der Wähler oder der Einfluss von politischen Parteien im detail untersucht, siehe hierzu u.a. Milic (2010) oder Kriesie (2012).
+
+    Ich möcht erstmals untersuchen ob es unterschiede gibt in den Policy Feldern über die Stimmberechtigten abstimmen, im weiteren kann es ein unterschied machen ob die Vorlage auf Kantonaler oder Eidgenösischer Ebene zur Abstimmung steht.
+
+    Die Daten geben leider keine Auskunft darüber ob es sich um Initiativen oder Referenden handelt.
+
+One or two sentences per aspect may suffice. Some references could be added, but this is not essential.
+
+# Theory
+
+The primary purpose of the theory section is twofold:
+
+1.  To discuss the outcome you seek to predict. What is the underlying concept? Do you view it as categorical or numeric?
+
+    Das Zugrundeliegende Konzept ist, dass ich davon ausgehe, dass das Elektorat sich unterschiedlich verhät bei verschiedenen Vorlagen, insbesondere in der Sozialpolitik ist eine Polarisierung zu sehen (cf. How the Populist Radical Right Transformed Swiss Welfare Politics: From Compromises to Polarization [Alexandre Afonso](https://onlinelibrary.wiley.com/authored-by/Afonso/Alexandre), [Yannis Papadopoulos](https://onlinelibrary.wiley.com/authored-by/Papadopoulos/Yannis)).
+
+    Ich gehe davon aus das alle Variablen Kategoriell sind, dazu betrachte ich auch ob eine Vorlage, angenommen wurde oder abgelehnt wurde.
+
+    Die Kategorien wie viele Gemeinden eine Vorlage angenomen haben odr abgelehnt haben berücksichtige ich daher nicht.
+
+2.  To discuss the features you will use in the prediction. Here, it can be useful to cite some literature to justify why the features are deemed important. It can also be helpful to group features (e.g., demographic, economic, political, etc).
+
+    Die Feauture die ich in der Analyse berücksichtige sind wie ich oben bereits diskutiert habe die Policy Felder und der Outcome an der Urne.
+
+# Methods
+
+## Algorithm
+
+Here, you discuss what algorithm or which algorithms you will be using and why. If you limit yourself to one algorithm---which is perfectly fine for the paper but somewhat rare in machine learning---then you should justify why this seems to be the optimal choice to you. If you use several algorithms, it also is important to say why they appear to be good candidates for the task at hand. Here, it is also perfectly fine to write, however, that the ultimate selection of an algorithm will take place after performance metrics have been obtained.
+
+-   KNN
+
+Ich habe mich für einen KNN (*k*-nearest neighbors algorithm) entschieden, da ich den Zusammanhang zwischen der Zustimmung zu einer Vorlage und dem Policy Feld darstellen möchte.
+
+Aufgrund der Kategorien, hielt ich es für Sinnvol die Resultate mit ihren Nachbaren zu vergleichen.
+
+Ein weiterer Vortril ist: It doesn't make any assumptions about the underlying data distribution, which is beneficial if you lack prior knowledge about the dataset.
+
+-   ANN
+
+    Die Anwendung von ANN hat die folgende Vorteile:
+
+    1.  **Handling Complex Patterns**: ANNs are renowned for their ability to discern intricate patterns in data. The relationship between voting outcomes and policy fields is likely complex and non-linear, making ANNs a suitable choice.
+
+    2.  **Flexibility and Adaptability**: ANNs can adapt to different types of data and learn to model various relationships. This adaptability is advantageous in tasks with diverse data features, such as yours.
+
+    3.  **Scalability**: For large datasets, which are common in voting data, ANNs are scalable and can effectively handle substantial volumes of data.
+
+    Allerdings auch diese Nachteile:
+
+Ich habe zusätzlich noch ein GLM Model verwendet.
+
+1.  **Basic Concept**: A Generalized Linear Model (GLM) is a flexible generalization of ordinary linear regression. It allows for response variables to have error distribution models other than a normal distribution. GLM generalizes linear regression by allowing the linear model to be related to the response variable via a link function and by allowing the magnitude of the variance of each measurement to be a function of its predicted value.
+
+2.  **Appropriateness for the Data Type**: In your case, the outcome of a popular vote and its policy field might not follow a normal distribution, which is a common scenario in social science data. GLM can handle non-normal distributions, making it suitable for such data.
+
+3.  **Flexibility in Modeling Relationships**: GLM is adept at modeling different kinds of relationships because it doesn't restrict the response variable to have a linear relationship with the predictors. This flexibility is crucial in policy analysis where relationships can be complex and non-linear.
+
+4.  **Interpretability**: One of the strengths of GLM is its interpretability, especially in fields like policy analysis where explaining the results to non-technical stakeholders is important. Coefficients in GLM can often be directly related to the influence of predictors on the response.
+
+5.  **Handling of Categorical and Continuous Variables**: GLMs are versatile in managing different types of variables. This means you can include both categorical (e.g., policy types) and continuous variables (e.g., percentage of votes) in your analysis.
+
+6.  **Link Function Advantage**: The choice of an appropriate link function (e.g., logit for binary outcomes) in GLM allows you to model the probability of outcomes in a way that suits the nature of the data, which is particularly useful in understanding voting behavior and policy preferences.
+
+## Tuning Process
+
+Most algorithms have tuning parameters. It is good to indicate how you select those parameters. What re-sampling strategy do you use? Are you using a grid search or another form of tuning?
+
+Ich werde im folgenden die Tuning Parameter die ich für für KNN und ANN verwendet habe erklären.
+
+KNN: Ich habe parameters set to be tuned: **`neighbors`** (the number of neighbors), **`weight_func`** (the weighting function), and **`dist_power`** (the distance power).
+
+Zudem habe ich This code defines a grid of hyperparameter values to be explored during tuning. The **`neighbors`** parameter is varied from 1 to 75, **`weight_func`** includes various types of weighting functions, and **`dist_power`** takes values 1 and 2.
+
+-   ANN :
+
+    1.  **Data Split Proportion (`prop`) in `initial_split`**: This parameter decides the proportion of the dataset to be used for training. Here, it's set to 0.8, meaning 80% of the data is used for training and the rest for testing.
+
+    2.  **Stratification Variable (`strata`) in `initial_split`**: The dataset is stratified based on **`Policy_Feld_Code`**, ensuring that each split has a representative distribution of this variable.
+
+    3.  **Number of Neighbors (`neighbors`) in `step_impute_knn`**: This parameter in the KNN imputation step indicates the number of neighbors to be used for imputing missing values. It's set to 3 here.
+
+    4.  **Hidden Units (`hidden_units`) in `brulee_mlp`**: This parameter defines the architecture of the neural network. The model has three hidden layers with 10, 5, and 3 units respectively.
+
+    5.  **Dropout Rate (`dropout`) in `brulee_mlp`**: This is the fraction of the input units to drop to prevent overfitting. It's set to 0.1 (10%).
+
+    6.  **Activation Function (`activation`) in `brulee_mlp`**: The activation function used here is 'relu' (Rectified Linear Unit).
+
+    7.  **Number of Epochs (`epochs`) in `brulee_mlp`**: This indicates how many times the learning algorithm will work through the entire training dataset. Here, it's set to 1000.
+
+    8.  **Rate Schedule (`rate_schedule`) in `brulee_mlp`**: This parameter determines how the learning rate is updated over time. 'Cyclic' means the learning rate will be updated in a cyclical manner.
+
+    9.  **Step Size (`step_size`) in `brulee_mlp`**: This is related to the rate schedule and determines the size of the step in the cyclic learning rate schedule. It's set to 4.
+
+-   For GLM there is no tuning
+
+# Data
+
+Here, you describe the data you will use for the analysis. It may be useful to break this down into two sections: description and pre-processing.
+
+## Descriptive Statistics
+
+Ich habe mir den Datensatz "Abstimmungsarchiv des Kantons Zürich ab 1831" als Grundlage meiner Analyse genomen.
+
+Es gibt zwei Ausführungen dieser Daten zum einen: "Abstimmungsarchiv des Kantons Zürich, Ergebnisse Kanton Zürich" und "Abstimmungsarchiv des Kantons Zürich, Ergebnisse pro Gemeinde".
+
+Ich habe zuerst versucht mit dem zweiten Datensatz zu Arbeiten, welcher Informationen zu Abstimmungen in jeder Politischen Gemeionde im Kanton Zürich beinhaltet, der Datensatz der über 5.1 Million einträge besitzt, war eindeutig zu gross um eine sinvolle Auswertung durchführen zu können, selbst wenn ich mich auf weniger Spalten und Abstimmungen ab 2000 fokusiert hätte, so hätte ich für jede Abstimmung noch Daten von 160 Gemeinden gehabt.
+
+Ich habe mich daher auf den kleineren Datensatz Abstimmungsarchiv des Kantons Zürich, Ergebnisse Kanton Zürich" fokusiert, um die Auswertung auch inhaltlich sinvoler zu gestalten habe ich nur Abstimmungen ab dem Jahr 2000 berücksicht.
+
+## Pre-Processing
+
+Ich habe mich entschieden zu erst ein Subset der Daten aus dem Datensatz "Abstimmungsarchiv des Kantons Zürich, Ergebnisse Kanton Zürich".
+
+In einem zweiten Schritt habe ich Variablen entfernt die mir für die Analyse nicht behilflich sind, so blieben dann nur noch diese Variablen übrig.
+
+In einem ersten Schritt habe ich die Daten gefiltert so dass ich nur noch einträge hatte nach dem 01.01.2000.
+
+-   "ABSTIMMUNGSTAG"
+
+-   "VORLAGE_KURZBEZ"
+
+-   "STAT_VORLAGE_ID"
+
+-   "ABSTIMMUNGSART_BEZ"
+
+-   "ANNEHMENDE_GEBIETE"
+
+-   "ABLEHNENDE_GEBIETE"
+
+-   "JA_ANTEIL_PROZENT"
+
+-   "Policy_Feld"
+
+In einem dritten Schritt habe ich die Label zu den entsprechenden Vorlagen zugeordnet und den entsprechenden Labels eine numerischen Wert zugeordnet.
+
+# Performance
+
+It is now time to present your results qua predictive performance. If you choose a single algorithm, this can be condensed in a single section. With multiple algorithms, it can be useful to break this down into a sub-section for each algorithm.
+
+It is important that your presentation includes the following:
+
+-   Results from parameter tuning. You need to communicate your choices for the tuning parameters and why you made them.
+
+-   Performance on the test set. You need to discuss how well your algorithm(s) account(s) for the test data. This includes a qualitative statement of whether the performance is satisfactory in your eyes.
+
+Should you apply multiple algorithms, it may be useful to add a concluding subsection describing which algorithm performs best.
+
+The `knn_test_metrics` indicate that the k-nearest neighbors model has a moderate level of prediction error and low explanatory power: an RMSE of 3.77 and MAE of 3.29 suggest average errors of these magnitudes in predictions, while a low R² of 0.0206 implies the model explains only about 2% of the variance in the data. These metrics suggest the model might need improvements or a different approach for better accuracy.
+
+ANN:
+
+### **1. Results from Parameter Tuning**
+
+**Parameter Choices:**
+
+-   **Activation Function:** The use of ReLU (Rectified Linear Unit) activation functions is a standard choice, advantageous for its ability to reduce the vanishing gradient problem and for faster training compared to sigmoid or tanh functions.
+
+-   **Hidden Units (c(10,5,3)):** Your model's architecture includes three hidden layers with 10, 5, and 3 units, respectively. This configuration suggests a strategy of progressively reducing the complexity of representations, which needs to strike a balance between being complex enough to capture data patterns and simple enough to avoid overfitting.
+
+-   **Model Parameters (117):** The relatively small number of parameters indicates a simpler model, which can be beneficial for generalization but might lack capacity for more complex data patterns.
+
+-   **Samples (326) and Features (3):** The high ratio of samples to features is generally positive for training stable models.
+
+-   **Numeric Outcome:** This suggests that the model is designed for a regression task.
+
+-   **Weight Decay (0.001):** This regularization technique helps prevent overfitting by penalizing large weights, contributing to a more robust model.
+
+-   **Dropout Proportion (0.1):** Implementing dropout helps prevent overfitting by randomly nullifying a fraction of the inputs, which encourages the model to learn more robust features.
+
+-   **Batch Size (261):** A large batch size, close to your total number of samples, implies less stochastic noise during training but might slow down convergence.
+
+-   **Schedule: Cyclic (Step Size = 4):** A cyclic learning rate schedule can be effective
+
+for finding better minima and escaping local minima by varying the learning rate in a cyclical fashion.
+
+-   **Scaled Validation Loss after 19 epochs (1.05):** The loss on the validation set is an important indicator of model performance. The appropriateness of a 1.05 loss value depends on the problem context and the scale of the outcome variable.
+
+### **2. Performance on the Test Set**
+
+In the absence of specific metrics, a quantitative assessment of model performance on the test set is challenging. However, we can make some general observations:
+
+-   **Qualitative Assessment:** If the validation loss is indicative of the test set performance, a loss of 1.05 might suggest moderate performance. However, the acceptability of this value is heavily context-dependent. For instance, in scenarios where the outcome variable has a large range, this loss might be acceptable; conversely, it might indicate poor performance for a small-range outcome.
+
+-   **Satisfactory Performance:** The determination of whether this performance is satisfactory depends on the specific application, baseline comparisons, and the project's requirements. If this model shows improvement over previous iterations or meets the project's benchmarks, then it might be considered satisfactory.
+
+For a more precise and context-specific analysis, additional details would be required, such as the nature of the data, the specific problem being addressed, and performance metrics on the test set.
+
+-   GLM
+
+    From the results of parameter tuning, it appears that the choices made for tuning parameters aimed to optimize the model's predictive accuracy. The chosen metrics and their respective estimates suggest the model's performance:
+
+    1.  RMSE (Root Mean Square Error) of 17.0 indicates the standard deviation of the prediction errors, showing on average how much the predictions deviate from actual values. A lower RMSE is generally preferred, so a value of 17.0 suggests moderate predictive accuracy.
+
+    2.  R-squared (R²) of 0.0175 measures the proportion of variance in the dependent variable that is predictable from the independent variables. This low value suggests that the model explains only a small portion of the variability in the response data.
+
+    3.  MAE (Mean Absolute Error) of 14.1 reflects the average magnitude of errors in a set of predictions, without considering their direction. Similar to RMSE, a lower MAE is better, and 14.1 indicates a moderate level of prediction error.
+
+    Overall, these metrics suggest that while the model has some predictive capabilities, its accuracy and explanatory power are somewhat limited, and further tuning or a different modeling approach might be needed to improve performance on the test set.
+
+# Interpretation
+
+The results should also be interpreted. In this section, you should engage with the interpretation. Depending on the algorithm, this can be easier or more difficult. It may be necessary to use algorithms like DALEX to do the interpretation.
+
+In the interpretation section, two things should be highlighted:
+
+1.  Variable importance (breakdown, Shapley, or other plots).
+2.  The partial effects of predictors.
+
+If you run multiple algorithms, then you need to do the interpretation only for the model you deem best.
+
+Ich werde mich bei der Interpretation auf das GLM Model reduzieren.
+
+Mir ist bewusst das das R\^2 von 0.01 extrem tief ist und die Interpretation daher nur schwierig ist.
+
+Wenn ich die Richtung der Koeffizienten betrachte shen wir, dass eine Abstimmung eher in den folgenden Policy Feldern abgelehnt wird:
+
+-   Bildung, Demokratie, Soziales und Umwelt und Verkehr.
+
+    In den Policy Feldern:
+
+-   Finanzen, Gesundheit, Law and Order, Migration, Sicherheit und Armee sowie Wirtschaft eher angenomen werden.
+
+Um zu unterschieden wie sich die Policy Felder bei der Anahme unterscheiden, habe ich zusätzlich mit DalExtra mir die Funktion explain_tidymodels aus DALEXtra angewandt.
+
+Dabei sehen wir das eine Policy aus dem Bereich Law and Order (Policy_Feld_Code 11) in allen untersuchten gemeinden angenomen wurde, und insgesamt eine Zustimmung von 76.93 % erhielt.
+
+Eine Policy aus dem Bereich Armee (Policy_Feld_Code 9) ereichte lediglich eine Zustimmung von 55.17
+
+# Conclusion
+
+What have you learnt from the analysis? How does this answer the research question?
+
+## References
