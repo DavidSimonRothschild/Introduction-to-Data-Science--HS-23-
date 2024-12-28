@@ -9,7 +9,7 @@ This analysis investigates how voter approval in the Canton of Zurich varies acr
 ## Course Context
 
 - Course: Introduction to Data Science
-- Semester: Fall 2023
+- Semester: Fall 2023 (HS 23)
 - Institution: University of Zurich
 - Lecturer: Prof. Dr. Marco Steenbergen
 
@@ -47,7 +47,7 @@ The analysis uses R with the following key packages:
 - tidymodels
 - brulee
 - DALEXtra
-- ggplot2
+
 
 ## Code Structure
 
